@@ -216,3 +216,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterColor: 8
+  playerSpriteCurrent: {fileID: 4487768336466228697}
+  playerSpriteYellow: {fileID: 5071110327770716206, guid: c8152daa2c42125498ab0607b9c72cfd, type: 3}
+  playerSpriteRed: {fileID: 7910910728586086850, guid: 92dbd96a4d874194e8541b14a1617578, type: 3}
+  playerSpritePurple: {fileID: 718691476559610821, guid: 6699d8b416f911b45a8de395f2adc5a5, type: 3}
+  playerSpriteBrown: {fileID: 1885582865959566072, guid: d7502ab70310f5642961b017a761cd68, type: 3}

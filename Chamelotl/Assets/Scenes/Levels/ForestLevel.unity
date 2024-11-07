@@ -8833,7 +8833,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -944.56, y: -524.41}
+  m_AnchoredPosition: {x: -942.85, y: -526.09}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &225761099
@@ -94494,6 +94494,38 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: playerSpriteRed
+      value: 
+      objectReference: {fileID: 38526635, guid: 2cc30d6455be5174e946cc76f2eda7a0, type: 3}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: playerSpriteBrown
+      value: 
+      objectReference: {fileID: 1626736113, guid: 493d8171f86469547aacc49b3ae0cc05, type: 3}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: playerSpritePurple
+      value: 
+      objectReference: {fileID: -1407241165, guid: 62237d36aae4b2f4ebac1880fb7de9b3, type: 3}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: playerSpriteYellow
+      value: 
+      objectReference: {fileID: 944595906, guid: e91825fa6ba60c94d8bd634fc8144c0c, type: 3}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: redAnimatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: fd1a2cbccb487494bac80f5323b79b39, type: 2}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: brownAnimatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: 3cb5bd561dba9cc4482c5106d98bb676, type: 2}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: purpleAnimatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: 004e791fb670d074d9bfeca6cac0d448, type: 2}
+    - target: {fileID: 3144133491700547058, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
+      propertyPath: yellowAnimatorController
+      value: 
+      objectReference: {fileID: 9100000, guid: 8874b68ffad134947badae03c954d1ee, type: 2}
     - target: {fileID: 4487768336466228697, guid: 2b12c7c6226f6074ab24274457e81691, type: 3}
       propertyPath: m_Name
       value: Default Player

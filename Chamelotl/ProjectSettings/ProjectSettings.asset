@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e50b3d237f8ab354f9a6c1d8c9699807
+  productGUID: ae14ecfc7da21bb48bc9cb500ca82a28
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: The Adventures of Chamelotl
+  productName: Chamelotl
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: The Adventures of Chamelotl
+  metroPackageName: Chamelotl
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: The Adventures of Chamelotl
+  metroApplicationDescription: Chamelotl
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,11 +687,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2e0c0db8-3eb0-4a41-9470-93d2b1af376a
+  cloudProjectId: 95d0bc53-9d82-4635-8e13-121fc962b320
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: The Adventures of Chamelotl
-  organizationId: guardiansascend
+  projectName: Chamelotl 2024-11-07_11-54-16
+  organizationId: zigzawzaw
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

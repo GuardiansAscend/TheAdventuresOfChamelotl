@@ -31,12 +31,12 @@ public class PlayerMovement : MonoBehaviour
         if (sprintInput == true)
         {
             //Speed and direction at which Chamy is sprinting around.
-            body.velocity = new Vector2(horizontalInput * sprintSpeed, body.velocity.y);
+            body.linearVelocity = new Vector2(horizontalInput * sprintSpeed, body.linearVelocity.y);
         }
         else
         {
             //Speed and direction at which Chamy is walking around.
-            body.velocity = new Vector2(horizontalInput * walkSpeed, body.velocity.y);
+            body.linearVelocity = new Vector2(horizontalInput * walkSpeed, body.linearVelocity.y);
         }
 
         //Flips the direction Chamy is facing horizontally. (Right or left)
@@ -63,7 +63,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
-        body.velocity = new Vector2(body.velocity.x, jumpSpeed);
+        body.linearVelocity = new Vector2(body.linearVelocity.x, jumpSpeed);
         animator.SetTrigger("jump");
         grounded = false;
     }

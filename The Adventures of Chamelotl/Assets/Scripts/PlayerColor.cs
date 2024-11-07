@@ -3,7 +3,7 @@ using static Fruit;
 
 public class PlayerColor : MonoBehaviour
 {
-    public FruitColor characterColor; 
+    public FruitColor characterColor;
 
     void Start()
     {

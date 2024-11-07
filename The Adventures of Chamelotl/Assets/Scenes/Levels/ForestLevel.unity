@@ -8810,7 +8810,7 @@ GameObject:
   - component: {fileID: 225761098}
   - component: {fileID: 225761100}
   - component: {fileID: 225761099}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ControlsText (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35068,7 +35068,7 @@ GameObject:
   - component: {fileID: 818261648}
   - component: {fileID: 818261650}
   - component: {fileID: 818261649}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ObstacleText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39794,7 +39794,7 @@ GameObject:
   - component: {fileID: 904426472}
   - component: {fileID: 904426471}
   - component: {fileID: 904426470}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39808,9 +39808,9 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904426468}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 0.45367432, y: 0.62137717, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1901182630}
@@ -39822,9 +39822,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 422.00784, y: 333.80383}
+  m_SizeDelta: {x: 1920, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &904426470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39864,7 +39864,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &904426472
 Canvas:
   m_ObjectHideFlags: 0
@@ -39874,8 +39874,8 @@ Canvas:
   m_GameObject: {fileID: 904426468}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 2
+  m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -43527,7 +43527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 983302863}
   - component: {fileID: 983302862}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ForestBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79736,7 +79736,7 @@ GameObject:
   - component: {fileID: 1816697596}
   - component: {fileID: 1816697598}
   - component: {fileID: 1816697597}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ControlsText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83841,7 +83841,7 @@ GameObject:
   - component: {fileID: 1901182630}
   - component: {fileID: 1901182632}
   - component: {fileID: 1901182631}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: FruitText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92868,7 +92868,7 @@ GameObject:
   - component: {fileID: 2116705581}
   - component: {fileID: 2116705583}
   - component: {fileID: 2116705582}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ControlsText (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
